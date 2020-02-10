@@ -15,9 +15,11 @@ Antautukoot sairauksillensa kyl joku kaivaa haudat
 Sekä tienaa pitkän pennin, ja pärjää huomisenkin
 Ja miettii taasen minne ollaan menossa
 
-Oi mitä aikaa onkaan olla elossa!
+Oi mitä aikaa onkaan olla elossa! [TODO]
 On hedonismi hienoa ja aitous outoa
-[TODO]
+
+
+
 
 Jossain kaukana kait siel on kotini
 Jonka saavutankin vielä, tapaan vaimonikin siellä
